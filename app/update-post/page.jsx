@@ -1,8 +1,8 @@
 'use client'
 import { useState, useEffect } from "react";
 import { useRouter, useSearchParams } from "next/navigation";
-import { supabase } from '../utils/supabase';
-import Form from '@components/Form';
+import  supabase from "../utils/supabase";
+import Form from "@components/Form";
 import Nav from "@components/Nav";
 
 const UpdatePost = () => {
