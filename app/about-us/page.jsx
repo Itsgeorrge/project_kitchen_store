@@ -1,9 +1,9 @@
-import Nav2 from '@components/Nav2';
+import Nav2 from '@/components/Nav2';
 import React from 'react';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faInstagram, faFacebook, faWhatsapp } from '@fortawesome/free-brands-svg-icons';
 import { library } from '@fortawesome/fontawesome-svg-core';
-import Footer from '@components/Footer';
+import Footer from '@/components/Footer';
 library.add(faInstagram, faFacebook, faWhatsapp);
 
 const AboutUs = () => {

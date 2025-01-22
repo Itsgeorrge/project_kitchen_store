@@ -1,8 +1,8 @@
 "use client"
 import React from 'react';
-import Form from '@components/Form'
-import Nav2 from '@components/Nav2';
-import Footer from '@components/Footer';
+import Form from '@/components/Form'
+import Nav2 from '@/components/Nav2';
+import Footer from '@/components/Footer';
 
 
 const CreatePost = () => {

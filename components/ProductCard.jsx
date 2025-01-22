@@ -1,7 +1,7 @@
 "use client";
 import React, { useEffect, useState } from 'react';
 import Image from 'next/image';
-import supabase from '@utils/supabase';
+import supabase from '@/utils/supabase';
 import { usePathname, useRouter } from 'next/navigation';
 import { useCart } from './Cart';
 import 'lazysizes';

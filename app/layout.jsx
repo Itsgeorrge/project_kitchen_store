@@ -1,8 +1,8 @@
 import '../styles/globals.css';
-import Footer from '@components/Footer';
+import Footer from '@/components/Footer';
 import 'w3-css'
 import '@fortawesome/fontawesome-svg-core/styles.css';
-import { AuthProvider } from '@components/AuthContext';
+import { AuthProvider } from '@/components/AuthContext';
 import '../styles/fonts.css';
 
 export const metadata = {

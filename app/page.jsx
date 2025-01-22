@@ -1,10 +1,10 @@
 import React from "react"
 import Image from 'next/image';
 import 'w3-css';
-import Feed from "@components/Feed";
-import Footer from "@components/Footer";
-import Nav from "@components/Nav";
-import { CartProvider } from '@components/Cart';
+import Feed from "@/components/Feed";
+import Footer from "@/components/Footer";
+import Nav from "@/components/Nav";
+import { CartProvider } from '@/components/Cart';
 
 
 const Home = () => {

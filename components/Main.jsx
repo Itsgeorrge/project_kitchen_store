@@ -1,6 +1,6 @@
 "use client";
 import { useState, useEffect } from 'react';
-import supabase from '@utils/supabase';
+import supabase from '@/utils/supabase';
 import Nav from './Nav';
 import SignIn from './SignIn';
 
