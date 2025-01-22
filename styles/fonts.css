@@ -1,0 +1,92 @@
+@font-face {
+    font-family: 'F40';
+    src: url('https://db.onlinewebfonts.com/t/6cd712b991cd6636d65591cd0d5d25a7.eot');
+    src: url('https://db.onlinewebfonts.com/t/6cd712b991cd6636d65591cd0d5d25a7.eot?#iefix') format('embedded-opentype'),
+         url('https://db.onlinewebfonts.com/t/6cd712b991cd6636d65591cd0d5d25a7.woff2') format('woff2'),
+         url('https://db.onlinewebfonts.com/t/6cd712b991cd6636d65591cd0d5d25a7.woff') format('woff'),
+         url('https://db.onlinewebfonts.com/t/6cd712b991cd6636d65591cd0d5d25a7.ttf') format('truetype'),
+         url('https://db.onlinewebfonts.com/t/6cd712b991cd6636d65591cd0d5d25a7.svg#F40') format('svg');
+  }
+
+  @font-face {
+    font-family: 'Hero';
+    src: url('https://db.onlinewebfonts.com/t/66ea2f27441b782f8f036eba1471d3ab.eot');
+    src: url('https://db.onlinewebfonts.com/t/66ea2f27441b782f8f036eba1471d3ab.eot?#iefix') format('embedded-opentype'),
+         url('https://db.onlinewebfonts.com/t/66ea2f27441b782f8f036eba1471d3ab.woff2') format('woff2'),
+         url('https://db.onlinewebfonts.com/t/66ea2f27441b782f8f036eba1471d3ab.woff') format('woff'),
+         url('https://db.onlinewebfonts.com/t/66ea2f27441b782f8f036eba1471d3ab.ttf') format('truetype'),
+         url('https://db.onlinewebfonts.com/t/66ea2f27441b782f8f036eba1471d3ab.svg#Hero') format('svg');
+  }
+  
+  @font-face {
+    font-family: 'Absans';
+    src: url('https://db.onlinewebfonts.com/t/952bab25f6798d6bb1937d67e9bee4dd.eot');
+    src: url('https://db.onlinewebfonts.com/t/952bab25f6798d6bb1937d67e9bee4dd.eot?#iefix') format('embedded-opentype'),
+         url('https://db.onlinewebfonts.com/t/952bab25f6798d6bb1937d67e9bee4dd.woff2') format('woff2'),
+         url('https://db.onlinewebfonts.com/t/952bab25f6798d6bb1937d67e9bee4dd.woff') format('woff'),
+         url('https://db.onlinewebfonts.com/t/952bab25f6798d6bb1937d67e9bee4dd.ttf') format('truetype'),
+         url('https://db.onlinewebfonts.com/t/952bab25f6798d6bb1937d67e9bee4dd.svg#Sans') format('svg');
+  }
+
+  @font-face {
+    font-family: 'Sanset';
+    src: url('https://db.onlinewebfonts.com/t/e657d2416c2bde3b3818c05c32bc2713.eot');
+    src: url('https://db.onlinewebfonts.com/t/e657d2416c2bde3b3818c05c32bc2713.eot?#iefix') format('embedded-opentype'),
+         url('https://db.onlinewebfonts.com/t/e657d2416c2bde3b3818c05c32bc2713.woff2') format('woff2'),
+         url('https://db.onlinewebfonts.com/t/e657d2416c2bde3b3818c05c32bc2713.woff') format('woff'),
+         url('https://db.onlinewebfonts.com/t/e657d2416c2bde3b3818c05c32bc2713.ttf') format('truetype'),
+         url('https://db.onlinewebfonts.com/t/e657d2416c2bde3b3818c05c32bc2713.svg#Sanset') format('svg');
+  }
+
+@font-face {
+    font-family: 'M7 Sans';
+    src: url('https://db.onlinewebfonts.com/t/206463b778bd5cdbadc049b557ae5ef1.eot');
+    src: url('https://db.onlinewebfonts.com/t/206463b778bd5cdbadc049b557ae5ef1.eot?#iefix') format('embedded-opentype'),
+         url('https://db.onlinewebfonts.com/t/206463b778bd5cdbadc049b557ae5ef1.woff2') format('woff2'),
+         url('https://db.onlinewebfonts.com/t/206463b778bd5cdbadc049b557ae5ef1.woff') format('woff'),
+         url('https://db.onlinewebfonts.com/t/206463b778bd5cdbadc049b557ae5ef1.ttf') format('truetype'),
+         url('https://db.onlinewebfonts.com/t/206463b778bd5cdbadc049b557ae5ef1.svg#M7+Sans') format('svg');
+  }
+
+@font-face {
+    font-family: 'Lato';
+    src: url('https://db.onlinewebfonts.com/t/1ba4767ee37aab7e8d34fc339c3538cc.eot');
+    src: url('https://db.onlinewebfonts.com/t/1ba4767ee37aab7e8d34fc339c3538cc.eot?#iefix') format('embedded-opentype'),
+         url('https://db.onlinewebfonts.com/t/1ba4767ee37aab7e8d34fc339c3538cc.woff2') format('woff2'),
+         url('https://db.onlinewebfonts.com/t/1ba4767ee37aab7e8d34fc339c3538cc.woff') format('woff'),
+         url('https://db.onlinewebfonts.com/t/1ba4767ee37aab7e8d34fc339c3538cc.ttf') format('truetype'),
+         url('https://db.onlinewebfonts.com/t/1ba4767ee37aab7e8d34fc339c3538cc.svg#Lato') format('svg');
+  }
+  
+  .font-lato {
+    font-family: 'Lato';
+  }
+  
+  
+  .font-m7-sans {
+    font-family: 'M7 Sans';
+  }
+  
+
+  .font-absans {
+    font-family: 'Absans';
+  }
+  
+  .font-sanset {
+    font-family: 'Sanset';
+  }    
+  .font-sans {
+    font-family: 'Sans';
+  }    
+  
+  .font-f40 {
+    font-family: 'F40';
+  }
+
+  .font-hero {
+    font-family: 'Hero';
+  }
+  
+  
+  
+  
