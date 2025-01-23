@@ -6,7 +6,7 @@ const supabase = createClient(supabaseUrl, supabaseAnonKey);
 const corsConfig = {
   allowedHeaders: ['Content-Type', 'Authorization', 'apikey'],
   allowedMethods: ['GET', 'POST', 'PUT', 'DELETE', 'OPTIONS'],
-  allowedOrigins: ['http://localhost:3000'], // Update this to your app's URL
+  allowedOrigins: ['https://project-kitchen-store.vercel.app'],
 };
   
   supabase.rpc('enable_cors', corsConfig);

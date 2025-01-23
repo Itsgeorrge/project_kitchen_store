@@ -47,7 +47,7 @@ const Contact = () => {
   
   return (
     <div>
-    <div className="mb-4 fixed top-0 left-0 right-0 z-50">
+    <div className="mb-4 fixd top-0 left-0 right-0 z-50">
   <Nav2 />
     </div>
 
