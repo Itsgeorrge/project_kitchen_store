@@ -1,8 +1,8 @@
 'use client';
 import React, { useState } from 'react';
-import Nav2 from '@/components/Nav2';
-import supabase from '@/utils/supabase';
-import Footer from '@/components/Footer';
+import Nav2 from '../../components/Nav2';
+import supabase from '../../utils/supabase';
+import Footer from '../../components/Footer';
 
 const Contact = () => {
   const [name, setName] = useState('');
